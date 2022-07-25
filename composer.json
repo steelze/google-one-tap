@@ -1,11 +1,11 @@
 {
-    "name": "steelze/laravel-google-one-tap",
+    "name": "steelze/google-one-tap",
     "description": "Google One Tap Login For Laravel ",
     "keywords": [
         "steelze",
-        "laravel-google-one-tap"
+        "google-one-tap"
     ],
-    "homepage": "https://github.com/steelze/laravel-google-one-tap",
+    "homepage": "https://github.com/steelze/google-one-tap",
     "license": "MIT",
     "type": "library",
     "authors": [
