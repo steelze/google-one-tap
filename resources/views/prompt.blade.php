@@ -14,8 +14,6 @@
     $attributesText = '';
 
     foreach ($attributes as $key => $value) {
-        if (!is_bool($value) && empty($value)) continue;
-
         if (is_bool($value)) {
             $value = ($value) ? 'true' : 'false';
         }
