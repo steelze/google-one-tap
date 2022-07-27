@@ -3,7 +3,12 @@
     "description": "Google One Tap Login For Laravel ",
     "keywords": [
         "steelze",
-        "google-one-tap"
+        "google-one-tap",
+        "google",
+        "one-tap",
+        "social-auth",
+        "laravel-auth"
+
     ],
     "homepage": "https://github.com/steelze/google-one-tap",
     "license": "MIT",
