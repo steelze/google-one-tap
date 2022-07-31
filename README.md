@@ -121,6 +121,7 @@ return [
 Update the login uri in the config file. The specified uri will be called by google and the credential is posted to this endpoint
 
 ```php
+// config/google-one-tap.php
 /*
 |--------------------------------------------------------------------------
 | Login URI
